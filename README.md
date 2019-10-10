@@ -1,2 +1,1 @@
-# gallery
-coba
+# RESPONSIVE IMAGE WITH BOOTSTRAP 4
